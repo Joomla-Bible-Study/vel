@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE install SYSTEM "http://dev.joomla.org/xml/2.5/component-install.dtd">
+<extension type="component" version="2.5" method="upgrade">
+	<!-- Note: we can use method="upgrade" to ensure an upgrade regardless of
+	if it is a new install or an actual upgrade; Normal installs will
+	behave like an install but upgrades will be treated appropriately even
+	if the interface doesn't support it properly -->
+	<!-- Generic Metadata -->
+	<name>com_velnotice</name>
+	<author>Tom Fuller</author>
+	<authorEmail>tom@tomfuller.net</authorEmail>
+	<authorUrl>http://www.tomfuller.net</authorUrl>
+	<copyright>(C) 2011 Tom Fuller</copyright>
+	<license>GNU/GPL</license>
+	<version>1.7</version>
+	<creationDate>September 2 2012</creationDate>
+	<description>Vel Notice checks for installed extensions that appear on the Vulnerable Extensions List</description>
+
+	<!-- Installer Hooks -->
+<!--	<installfile>file.install.php</installfile> --> <!-- Deprecated in 1.6 -->
+<!--	<uninstallfile>file.uninstall.php</uninstallfile> --> <!-- Deprecated in 1.6 -->
+<!--	<scriptfile>file.script.php</scriptfile> --> <!-- New in 1.6 -->
+
+	<!-- SQL Files -->
+	<!-- Note: The Joomla! 1.0 query method is not supported in 1.6 -->
+	<install> <!-- Runs on install -->
+		<sql>
+			<file driver="mysql" charset="utf8">sql/install.mysql.sql</file>
+		</sql>
+	</install>
+	<uninstall> <!-- Runs on uninstall -->
+		<sql>
+			<file driver="mysql" charset="utf8" folder="sql">sql/uninstall.mysql.sql</file>
+		</sql>
+	</uninstall>
+
+
+
+	<administration>
+		<!-- Administrator Menu -->
+		<menu img="components/com_velnotice/images/icons/caution2-16.png">COM_VELNOTICE</menu>
+        <submenu>
+	    <menu link="option=com_velnotice&amp;view=vel" view="vel" alt="COM_VELNOTICE_MENU_VEL_LIST">COM_VELNOTICE_MENU_VEL_LIST</menu>
+        <menu link="option=com_velnotice&amp;view=velignores" view="velignores" alt="COM_VELNOTICE_MENU_VEL_IGNORE">COM_VELNOTICE_MENU_VEL_IGNORE</menu>
+        </submenu>
+		<!-- Administrator file and language specification;
+			Note: administrator doesn't have media -->
+		<files folder="admin">
+			<filename>controller.php</filename>
+			<filename>index.html</filename>
+			<filename>velnotice.xml</filename>
+			<filename>velnotice.php</filename>
+            <filename>config.xml</filename>
+            <filename>access.xml</filename>
+			<folder>sql</folder>
+            <folder>views</folder>
+            <folder>tables</folder>
+            <folder>models</folder>
+            <folder>images</folder>
+            <folder>css</folder>
+            <folder>help</folder>
+            <folder>controllers</folder>
+            <folder>helpers</folder>
+		</files>
+
+		<!-- Legacy 1.5 Language Support -->
+		<!-- Note: Replace this with the actual path to the language file -->
+ 		 <languages folder="languages">
+         <language tag="en-GB">en-GB/en-GB.com_velnotice.ini</language>
+         <language tag="en-GB">en-GB/en-GB.com_velnotice.sys.ini</language>
+         </languages>
+
+	</administration>
+
+	<!-- Extension Update Specification -->
+	 <updateservers>
+		<server type="extension" priority="1" name="Extension Update Site">http://www.joomlabiblestudy.org/updates/velcomponent.xml</server>
+  </updateservers>
+
+	<!-- Tables -->
+	<!-- These are used for backups to determine which tables to backup; ones marked optional are only backed up if they exist -->
+
+<dependencies>
+		<dependency type="platform" name="joomla" operator="=" version="1.6" />
+	</dependencies>	
+	
+</extension>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<config>
+	<fieldset name="Joomla Vulnerable Extensions Options"
+		label="Joomla Vulnerable Extensions Options"
+		description="You can set the feed url if it has changed but be sure first">
+	
+		<field
+			name="feed"
+			type="text"
+			label="Feed URL"
+            size="150"
+            default="http://feeds.joomla.org/JoomlaSecurityVulnerableExtensions?format=xml"
+			description="Do Not Change this unless you are really certain" />
+	</fieldset>
+    <fieldset
+		name="permissions"
+		label="JCONFIG_PERMISSIONS_LABEL"
+		description="JCONFIG_PERMISSIONS_DESC"
+	>
+		<field
+			name="rules"
+			type="rules"
+			label="JCONFIG_PERMISSIONS_LABEL"
+			class="inputbox"
+			validate="rules"
+			filter="rules"
+			component="com_velnotice"
+			section="component"
+		/>
+	</fieldset>
+
+</config>

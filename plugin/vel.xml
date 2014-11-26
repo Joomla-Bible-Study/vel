@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.6" type="plugin" group="system" method="upgrade">
+	<name>System - Vel Plugin</name>
+	<creationDate>August 31 2011</creationDate>
+	<author>Tom Fuller</author>
+	<authorEmail>tom@tomfuller.net</authorEmail>
+	<authorUrl>http://www.tomfuller.net</authorUrl>
+	<copyright>(C) 2011 Copyright Tom Fuller</copyright>
+	<license>GNU</license>
+	<version>1.6</version>
+	<description>Checks installed extensions against Vulnerable Extensions List</description>
+    <install> <!-- Runs on install -->
+		<sql>
+			<file driver="mysql" charset="utf8">sql/install.mysql.utf8.sql</file>
+		</sql>
+        	
+	</install>
+	<uninstall> <!-- Runs on uninstall -->
+		<sql>
+			<file driver="mysql" charset="utf8">sql/uninstall.mysql.utf8.sql</file>
+		</sql>
+	</uninstall>
+<config>
+		<fields name="params">
+
+			<fieldset name="basic">
+                <field name="urltype" 
+                type="list"
+                default="1"
+                label="VEL_URL_TYPE"
+                description="VEL_URL_TYPE_DESC"
+                >
+                <option value="1">VEL_URL_STANDARD</option>
+                <option value="2">VEL_URL_CUSTOM</option>
+                </field>
+				<field name="feedurl" type="text"
+					description="VEL_URL_DESC"
+					label="VEL_URL"
+					size="75"
+                    default="http://feeds.joomla.org/JoomlaSecurityVulnerableExtensions?format=xml"
+				/>
+                <field name="frequency" 
+                    type="list" 
+                    default="0" 
+                    label="VEL_PUBLISHING_SCHEDULE" 
+                    description="VEL_PUBLISHING_SCHEDULE_DESC" 
+                >
+                    <option value="86400">VEL_ONCE_DAY</option>
+					<option value="604800">VEL_ONCE_WEEK</option>
+                    <option value="18144000">VEL_ONCE_MONTH</option>
+                </field>
+                <field name="recipients"
+                    type = "text"
+                    default = ""
+                    size = "75"
+                    label = "VEL_EMAIL_RECIPIENTS"
+                    description = "VEL_EMAIL_RECIPIENTS_DESC"
+                />
+                <field name="noticetype"
+                    type="list"
+                    default="0"
+                    label="VEL_NOTICE_TYPE"
+                    description="VEL_NOTICE_TYPE_DESC"
+                >
+                    <option value="0">VEL_ALL_TYPES</option>
+                    <option value="2">VEL_YELLOW_RED</option>
+                    <option value="3">VEL_RED_ONLY</option>
+                </field>
+                <field name="useignorelist"
+                type="list"
+                default="1"
+                label="VEL_NOTICE_USEIGNORELIST"
+                description="VEL_NOTICE_USEIGNORELIST_DESC"
+                >
+                    <option value="0">VEL_NOTICE_NOIGNORELIST</option>
+                    <option value="1">VEL_NOTICE_YESIGNORELIST</option>
+                </field>
+                <field name="usedescription"
+                type="list"
+                default="0"
+                label="VEL_NOTICE_USEDESCRIPTION"
+                description="VEL_NOTICE_USEDESCRIPTION_DESC"
+                >
+                    <option value="0">VEL_NOTICE_NODESCRIPTION</option>
+                    <option value="1">VEL_NOTICE_YESDESCRIPTION</option>
+                </field>
+                </fieldset>
+        </fields>
+    </config>
+	<files>
+		<filename plugin="vel">vel.php</filename>
+		<folder>sql</folder>
+		</files>
+   <languages folder="languages">
+      <language tag="en-GB">en-GB/en-GB.plg_system_vel.ini</language>
+      <language tag="en-GB">en-GB/en-GB.plg_system_vel.sys.ini</language>
+   </languages> 
+   <updateservers>
+		<!-- Note: No spaces or linebreaks allowed between the server tags -->
+		<server type="extension" priority="1" name="Vulnerable Extensions Notice Update Site">http://www.JoomlaBibleStudy.org/updates/velplugin.xml</server>
+	</updateservers>
+    <dependencies>
+		<dependency type="platform" name="joomla" operator="=" version="1.6" />
+	</dependencies>	
+</extension>

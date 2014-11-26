@@ -1,0 +1,32 @@
+<form>
+    <field 
+        name="extension_number" 
+        type="sql" 
+        class="inputbox" 
+        label="VEL_EXTENSION" 
+        translate="true" 
+        query="SELECT name, extension_id FROM #__extensions ORDER BY extension_id ASC" 
+        key_field="extension_id" 
+        value_field="name">
+            <option value="-1">VEL_SELECT_EXTENSION</option>
+    </field>
+    <field
+        name="published"
+        type="radio"
+        label="VEL_IGNORE" 
+        description="VEL_IGNORE_DESC" 
+        class="inputbox" default="1" required="false">
+        <option value="0">VEL_IGNORE_NO</option>
+        <option value="1">VEL_IGNORE_YES</option>
+    </field>
+    <field name="rules" type="rules" label="JFIELD_RULES_LABEL"
+			translate_label="false" class="inputbox" filter="rules"
+			component="com_velnotice" section="velignore" validate="rules"
+		/>
+    <field name="asset_id" type="hidden" filter="unset" />
+    <fieldset name="request">
+        <field name="id" type="text" default="0" label="JGLOBAL_FIELD_ID_LABEL"
+			readonly="true" class="readonly"
+			description="JGLOBAL_FIELD_ID_DESC"/>  
+    </fieldset>
+</form>

@@ -1,0 +1,1964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.joomla.org/~d/styles/itemcontent.css"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>Joomla! Documentation - Vulnerable Extensions List</title>
+		<link>http://docs.joomla.org/Vulnerable_Extensions_List</link>
+		<description>Please check with the extension publisher in case of any questions over the security of their product.
+Report Vulnerable extensions either in the jforum:432 security topic clearly marked with the first word in the title being Vulnerable Report where the security moderators or JSST team will respond. For a guide to the codes
+Previous Reports
+
+
+
+
+  Extension
+ Details
+  Date Added
+Extension Update Link &amp;amp; Date</description>
+		<language>en</language>
+
+		<generator>MediaWiki 1.13.3 via WikiArticleFeeds 0.6.4</generator>
+		<lastBuildDate>Mon, 19 Jul 2010 00:44:49 GMT</lastBuildDate>
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.joomla.org/JoomlaSecurityVulnerableExtensions" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="joomlasecurityvulnerableextensions" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><feedburner:emailServiceId xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">JoomlaSecurityVulnerableExtensions</feedburner:emailServiceId><feedburner:feedburnerHostname xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">http://feedburner.google.com</feedburner:feedburnerHostname><item>
+			<title>  mysms   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#mysms</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.willcodejoomlaforfood.de/" class="external free" title="http://www.willcodejoomlaforfood.de/" rel="nofollow"&gt;http://www.willcodejoomlaforfood.de/&lt;/a&gt; Upload Vulnerability july 10,2010
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;/p&gt;
+</description>
+											</item>
+		<item>
+			<title> Rapid Recipe    </title>
+
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Rapid_Recipe</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.rapid-source.com" class="external free" title="http://www.rapid-source.com" rel="nofollow"&gt;http://www.rapid-source.com&lt;/a&gt; Persistent XSS Vulnerability last known fix version 1.7.2 july 10,2010
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;/p&gt;
+</description>
+											</item>
+		<item>
+
+			<title>   Health &amp;amp; Fitness Stats   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Health_.26_Fitness_Stats</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://joomla-extensions.instantiate.co.uk/jcomponents/healthstats" class="external free" title="http://joomla-extensions.instantiate.co.uk/jcomponents/healthstats" rel="nofollow"&gt;http://joomla-extensions.instantiate.co.uk/jcomponents/healthstats&lt;/a&gt; Persistent XSS Vulnerability july 10,2010
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;/p&gt;
+
+</description>
+											</item>
+		<item>
+			<title>  staticxt   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#staticxt</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://extensions.joomla.org/extensions/edition/custom-code-in-content/2184" class="external free" title="http://extensions.joomla.org/extensions/edition/custom-code-in-content/2184" rel="nofollow"&gt;http://extensions.joomla.org/extensions/edition/custom-code-in-content/2184&lt;/a&gt;  no version number provided
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;/p&gt;
+
+</description>
+											</item>
+		<item>
+			<title>   EasyBlog  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#EasyBlog</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://stackideas.com/products/easyblog.html" class="external free" title="http://stackideas.com/products/easyblog.html" rel="nofollow"&gt;http://stackideas.com/products/easyblog.html&lt;/a&gt; xss (new report) july 10,2010
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;/p&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+
+</description>
+											</item>
+		<item>
+			<title>   redshop light   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#redshop_light</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://redcomponent.com/redshop" class="external free" title="http://redcomponent.com/redshop" rel="nofollow"&gt;http://redcomponent.com/redshop&lt;/a&gt; &lt;a href="http://extensions.joomla.org/extensions/e-commerce/shopping-cart/13184" class="external free" title="http://extensions.joomla.org/extensions/e-commerce/shopping-cart/13184" rel="nofollow"&gt;http://extensions.joomla.org/extensions/e-commerce/shopping-cart/13184&lt;/a&gt; silent 777 and sqli
+
+&lt;/td&gt;&lt;td&gt;110710
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://redcomponent.com/forum/72-redshop-light/11261-redshop-light-rc2-released-security-release" class="external text" title="http://redcomponent.com/forum/72-redshop-light/11261-redshop-light-rc2-released-security-release" rel="nofollow"&gt;Developer reported fix and upgrade to RC2&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+
+											</item>
+		<item>
+			<title>   quickfaq  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#quickfaq</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.schlu.net" class="external free" title="http://www.schlu.net" rel="nofollow"&gt;http://www.schlu.net&lt;/a&gt; sqli
+
+&lt;/td&gt;&lt;td&gt;090710
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+
+			<title>    Minify4Joomla  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Minify4Joomla</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://waltercedric.com/" class="external free" title="http://waltercedric.com/" rel="nofollow"&gt;http://waltercedric.com/&lt;/a&gt; LFI and xss
+&lt;/td&gt;&lt;td&gt;090710
+
+&lt;/td&gt;&lt;td&gt;No longer available to download
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>   IXXO Cart   </title>
+
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#IXXO_Cart</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.php-shop-system.com/" class="external free" title="http://www.php-shop-system.com/" rel="nofollow"&gt;http://www.php-shop-system.com/&lt;/a&gt; SQLi LFI XSS Vulnerability
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title> Music Manager    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Music_Manager</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;LFI
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://danieljamesscott.org/software/4-joomla-extensions/4-music-manager.html" class="external free" title="http://danieljamesscott.org/software/4-joomla-extensions/4-music-manager.html" rel="nofollow"&gt;http://danieljamesscott.org/software/4-joomla-extensions/4-music-manager.html&lt;/a&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  PaymentsPlus   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#PaymentsPlus</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://paymentsplus.com.au/" class="external free" title="http://paymentsplus.com.au/" rel="nofollow"&gt;http://paymentsplus.com.au/&lt;/a&gt; 2.1.5 Blind SQL Injection Vulnerability
+&lt;/td&gt;&lt;td&gt;090710
+&lt;/td&gt;&lt;td&gt;current version 2.20, 2.1.5 not listed on dev site
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  ArtForms   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#ArtForms</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://joomlacode.org/gf/project/jartforms/" class="external free" title="http://joomlacode.org/gf/project/jartforms/" rel="nofollow"&gt;http://joomlacode.org/gf/project/jartforms/&lt;/a&gt; ArtForms 2.1b7.2 RC2 Multiple Remote Vulnerabilities
+
+&lt;/td&gt;&lt;td&gt;090710
+&lt;/td&gt;&lt;td&gt; Old beta extension
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+
+		<item>
+			<title>    NeoRecruit  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#NeoRecruit</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;neojoomla.com SQL Injection
+&lt;/td&gt;&lt;td&gt;060710
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  autartimonial   </title>
+
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#autartimonial</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;autartica.be Sqli Vulnerability
+&lt;/td&gt;&lt;td&gt;060710
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+			<title>   Jobs Pro  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Jobs_Pro</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;instantphp.com/ Sqli
+&lt;/td&gt;&lt;td&gt;060710
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.instantphp.com/news/40-new-releases/153-jobs-133-is-published.html" class="external text" title="http://www.instantphp.com/news/40-new-releases/153-jobs-133-is-published.html" rel="nofollow"&gt;devs&lt;/a&gt; announcement of fix 130710
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+
+&lt;td&gt;
+</description>
+											</item>
+		<item>
+			<title>  JPodium   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#JPodium</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.jpodium.de/" class="external free" title="http://www.jpodium.de/" rel="nofollow"&gt;http://www.jpodium.de/&lt;/a&gt; SQL Injection
+
+&lt;/td&gt;&lt;td&gt;060710
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.jpodium.de/index.php?option=com_content&amp;amp;view=article&amp;amp;id=135:jpodium-not-vulnerable-to-sql-injection&amp;amp;catid=2:newsrotator" class="external text" title="http://www.jpodium.de/index.php?option=com_content&amp;amp;view=article&amp;amp;id=135:jpodium-not-vulnerable-to-sql-injection&amp;amp;catid=2:newsrotator" rel="nofollow"&gt;Devs statement as to not proven&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  Front-End Article Manager System   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Front-End_Article_Manager_System</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://b-elektro.no/" class="external free" title="http://b-elektro.no/" rel="nofollow"&gt;http://b-elektro.no/&lt;/a&gt; Upload Vulnerability
+&lt;/td&gt;&lt;td&gt;040710
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title> addressbook    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#addressbook</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://b-elektro.no/" class="external free" title="http://b-elektro.no/" rel="nofollow"&gt;http://b-elektro.no/&lt;/a&gt; Upload Vulnerability
+
+&lt;/td&gt;&lt;td&gt;040710
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+</description>
+											</item>
+		<item>
+
+			<title>   NijnaMonials  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#NijnaMonials</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://ninjaforge.com/" class="external free" title="http://ninjaforge.com/" rel="nofollow"&gt;http://ninjaforge.com/&lt;/a&gt; Sqli Vulnerability
+&lt;/td&gt;&lt;td&gt;040710
+
+&lt;/td&gt;&lt;td&gt;070410 Discovered to be malicious/false report see &lt;a href="http://nekkidninjas.com/index.php/2010/07/05/there-is-no-sql-injection-vulnerability-" class="external text" title="http://nekkidninjas.com/index.php/2010/07/05/there-is-no-sql-injection-vulnerability-" rel="nofollow"&gt;devs notice&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+
+		<item>
+			<title> Phoca Gallery    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Phoca_Gallery</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;SQL I  wrong download location in report
+&lt;/td&gt;&lt;td&gt;040710
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+			<title> socialads    </title>
+
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#socialads</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;techjoomla.com/ Xss Vulnerability
+&lt;/td&gt;&lt;td&gt;040710
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://techjoomla.com/joomla-extension-news/socialads-v101-security-update-to-fix-xss-vulnerability-out.html" class="external text" title="http://techjoomla.com/joomla-extension-news/socialads-v101-security-update-to-fix-xss-vulnerability-out.html" rel="nofollow"&gt;Developers resolved statement&lt;/a&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title> eventcal 1.6.4    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#eventcal_1.6.4</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://joomlacode.org/gf/project/eventcal/frs/" class="external free" title="http://joomlacode.org/gf/project/eventcal/frs/" rel="nofollow"&gt;http://joomlacode.org/gf/project/eventcal/frs/&lt;/a&gt; SQL I  last update 2006-12-31 on joomlacode
+&lt;/td&gt;&lt;td&gt;040710
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title> myblog controller    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#myblog_controller</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;LFI
+&lt;p&gt;&lt;a href="http://www.azrul.com/" class="external free" title="http://www.azrul.com/" rel="nofollow"&gt;http://www.azrul.com/&lt;/a&gt; 
+&lt;/p&gt;
+&lt;/td&gt;&lt;td&gt;010710
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.azrul.com/" class="external text" title="http://www.azrul.com/" rel="nofollow"&gt;MyBlog 3.0.332&lt;/a&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  joomanager    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#joomanager</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;SQli Vulnerability
+&lt;p&gt;&lt;a href="http://www.joomanager.com" class="external free" title="http://www.joomanager.com" rel="nofollow"&gt;http://www.joomanager.com&lt;/a&gt;
+&lt;/p&gt;
+&lt;/td&gt;&lt;td&gt;010710
+&lt;/td&gt;&lt;td&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+			<title>  gamesbox   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#gamesbox</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;SQL Injection Vulnerability
+&lt;p&gt;&lt;a href="http://www.jooforge.com/en/download/commercial/extensions/39-gamesbox" class="external free" title="http://www.jooforge.com/en/download/commercial/extensions/39-gamesbox" rel="nofollow"&gt;http://www.jooforge.com/en/download/commercial/extensions/39-gamesbox&lt;/a&gt;
+&lt;/p&gt;
+&lt;/td&gt;&lt;td&gt;010710
+&lt;/td&gt;&lt;td&gt;upgrade to     1.0.10
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>   wmtpic  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#wmtpic</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;www.webmaster-tips.net various
+&lt;/td&gt;&lt;td&gt;010710
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+
+</description>
+											</item>
+		<item>
+			<title> date converter    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#date_converter</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://sourceforge.net/projects/date-converter/" class="external free" title="http://sourceforge.net/projects/date-converter/" rel="nofollow"&gt;http://sourceforge.net/projects/date-converter/&lt;/a&gt; sqli
+
+&lt;/td&gt;&lt;td&gt;010710
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+
+			<title> Remository    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Remository</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://remository.com/" class="external free" title="http://remository.com/" rel="nofollow"&gt;http://remository.com/&lt;/a&gt; LFI (proc)
+&lt;/td&gt;&lt;td&gt;010710
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+</description>
+											</item>
+		<item>
+			<title>     </title>
+
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title> real estate    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#real_estate</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.opensourcetechnologies.com/demos/real-estate.html" class="external free" title="http://www.opensourcetechnologies.com/demos/real-estate.html" rel="nofollow"&gt;http://www.opensourcetechnologies.com/demos/real-estate.html&lt;/a&gt; RFI
+&lt;/td&gt;&lt;td&gt;210610
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+			<title>  jomsocial   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#jomsocial</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;Version: 1.6.288 Multiple XSS
+
+&lt;/td&gt;&lt;td&gt;210610
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.jomsocial.com/blog/security-patch-for-jomsocial-16x.html" class="external text" title="http://www.jomsocial.com/blog/security-patch-for-jomsocial-16x.html" rel="nofollow"&gt;1.6.291 released&lt;/a&gt; 220610
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+
+</description>
+											</item>
+		<item>
+			<title>  DOCman    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#DOCman</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;DOCman 1.5.7 DOCman 1.4.0 none specific exploit
+
+&lt;/td&gt;&lt;td&gt;210610
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://blog.joomlatools.eu/2010/06/docman-security-announcement.html" class="external text" title="http://blog.joomlatools.eu/2010/06/docman-security-announcement.html" rel="nofollow"&gt;developer announcement&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+
+											</item>
+		<item>
+			<title> eportfolio    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#eportfolio</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.joomplace.com/e-portfolio/e-portfolio-description.html" class="external free" title="http://www.joomplace.com/e-portfolio/e-portfolio-description.html" rel="nofollow"&gt;http://www.joomplace.com/e-portfolio/e-portfolio-description.html&lt;/a&gt; Upload  Vulnerability
+
+&lt;/td&gt;&lt;td&gt;200610
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+
+			<title>  cinema   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#cinema</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;SQL injection
+&lt;/td&gt;&lt;td&gt;190610
+&lt;/td&gt;&lt;td&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>   Jreservation  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Jreservation</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://jforjoomla.com/" class="external free" title="http://jforjoomla.com/" rel="nofollow"&gt;http://jforjoomla.com/&lt;/a&gt; SQLi Vulnerability
+&lt;/td&gt;&lt;td&gt;190610
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  Super Messenger   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Super_Messenger</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;axxis.gr xss
+&lt;/td&gt;&lt;td&gt;190610
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+
+											</item>
+		<item>
+			<title>   joomdocs  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#joomdocs</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://joomclan.com/index.php/JoomDocs/" class="external free" title="http://joomclan.com/index.php/JoomDocs/" rel="nofollow"&gt;http://joomclan.com/index.php/JoomDocs/&lt;/a&gt; xss vulnerability
+
+&lt;/td&gt;&lt;td&gt;190610
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+
+			<title>  RSComments 1.0.0   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#RSComments_1.0.0</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;Persistent XSS NOTE: ONLY executes in backend!
+&lt;/td&gt;&lt;td&gt;190610
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.rsjoomla.com/customer-support/documentations/96--general-overview-of-the-component/393-changelog.html" class="external text" title="http://www.rsjoomla.com/customer-support/documentations/96--general-overview-of-the-component/393-changelog.html" rel="nofollow"&gt;Developer update announcement&lt;/a&gt; 210610
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>   Live Chat    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Live_Chat</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.joompolitan.com/livechat.html" class="external free" title="http://www.joompolitan.com/livechat.html" rel="nofollow"&gt;http://www.joompolitan.com/livechat.html&lt;/a&gt; Multiple Remote Vulnerabilities
+&lt;/td&gt;&lt;td&gt;190610
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title> Turtushout 0.11    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Turtushout_0.11</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt; &lt;a href="http://www.turtus.org.ua/files?func=fileinfo&amp;amp;id=13" class="external free" title="http://www.turtus.org.ua/files?func=fileinfo&amp;amp;id=13" rel="nofollow"&gt;http://www.turtus.org.ua/files?func=fileinfo&amp;amp;id=13&lt;/a&gt; SQL Injection (again)
+&lt;/td&gt;&lt;td&gt;190610
+&lt;/td&gt;&lt;td&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  BF Survey Pro Free   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#BF_Survey_Pro_Free</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;BF Survey Pro Free SQL Injection Exploit
+&lt;/td&gt;&lt;td&gt;190610
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+
+</description>
+											</item>
+		<item>
+			<title>  MisterEstate   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#MisterEstate</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.misterestate.com/" class="external free" title="http://www.misterestate.com/" rel="nofollow"&gt;http://www.misterestate.com/&lt;/a&gt; Blind SQL Injection Exploit
+
+&lt;/td&gt;&lt;td&gt;190610
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+
+			<title>  RSMonials    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#RSMonials</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.rswebsols.com/downloads/category/14-download-rsmonials-all?download=23%3Adownload-rsmonials-component" class="external free" title="http://www.rswebsols.com/downloads/category/14-download-rsmonials-all?download=23%3Adownload-rsmonials-component" rel="nofollow"&gt;http://www.rswebsols.com/downloads/category/14-download-rsmonials-all?download=23%3Adownload-rsmonials-component&lt;/a&gt; XSS Exploit
+&lt;/td&gt;&lt;td&gt;190610
+
+&lt;/td&gt;&lt;td&gt;Believed to be 1.5.1 version
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;/p&gt;
+</description>
+											</item>
+
+		<item>
+			<title>  RSComments 1.0.0   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#RSComments_1.0.0_2</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;RS Comments 1.0.0 Multiple XSS Vulnerabilities &lt;a href="http://www.rsjoomla.com" class="external free" title="http://www.rsjoomla.com" rel="nofollow"&gt;http://www.rsjoomla.com&lt;/a&gt; (relisted)
+
+&lt;/td&gt;&lt;td&gt;180610
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.rsjoomla.com/customer-support/documentations/96--general-overview-of-the-component/393-changelog.html" class="external text" title="http://www.rsjoomla.com/customer-support/documentations/96--general-overview-of-the-component/393-changelog.html" rel="nofollow"&gt;Developer update announcement&lt;/a&gt; 210610
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+
+</description>
+											</item>
+		<item>
+			<title>  Answers v2.3beta   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Answers_v2.3beta</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;Multiple Vulnerabilities &lt;a href="http://extensions.joomla.org/extensions/communication/forum/12652" class="external free" title="http://extensions.joomla.org/extensions/communication/forum/12652" rel="nofollow"&gt;http://extensions.joomla.org/extensions/communication/forum/12652&lt;/a&gt;
+
+&lt;/td&gt;&lt;td&gt;180610
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+
+			<title>  Gallery XML 1.1   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Gallery_XML_1.1</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;Multiple Vulnerabilities
+&lt;p&gt;&lt;a href="http://extensions.joomla.org/extensions/photos-a-images/photo-gallery/12504" class="external free" title="http://extensions.joomla.org/extensions/photos-a-images/photo-gallery/12504" rel="nofollow"&gt;http://extensions.joomla.org/extensions/photos-a-images/photo-gallery/12504&lt;/a&gt;
+
+&lt;/p&gt;
+&lt;/td&gt;&lt;td&gt;180610
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+
+		<item>
+			<title>  JFaq 1.2   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#JFaq_1.2</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;JFaq 1.2 Multiple Vulnerabilities
+&lt;/td&gt;&lt;td&gt;180610
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  Listbingo 1.3   </title>
+
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Listbingo_1.3</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;Multiple Vulnerabilities
+&lt;p&gt;&lt;a href="http://extensions.joomla.org/extensions/ads-a-affiliates/classified-ads/12062" class="external free" title="http://extensions.joomla.org/extensions/ads-a-affiliates/classified-ads/12062" rel="nofollow"&gt;http://extensions.joomla.org/extensions/ads-a-affiliates/classified-ads/12062&lt;/a&gt;
+&lt;/p&gt;
+&lt;/td&gt;&lt;td&gt;180610
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title> PowerMail Pro    </title>
+
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#PowerMail_Pro</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;givesight.org PowerMail Pro Local File Inclusion Vulnerability
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title> Alpha User Points    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Alpha_User_Points</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;www.alphaplug.com LFI
+&lt;/td&gt;&lt;td&gt;180610
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+
+											</item>
+		<item>
+			<title>  Magic Updater   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Magic_Updater</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://software.realtyna.com/" class="external free" title="http://software.realtyna.com/" rel="nofollow"&gt;http://software.realtyna.com/&lt;/a&gt; RFI
+
+&lt;/td&gt;&lt;td&gt;170610
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+
+			<title>   recruitmentmanager  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#recruitmentmanager</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://recruitment.focusdev.co.uk" class="external free" title="http://recruitment.focusdev.co.uk" rel="nofollow"&gt;http://recruitment.focusdev.co.uk&lt;/a&gt; Upload Vulnerability
+&lt;/td&gt;&lt;td&gt;130610
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  Info Line (MT_ILine)    </title>
+
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Info_Line_.28MT_ILine.29</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://extensions.joomla.org/extensions/news-display/news-tickers-a-scrollers/8425" class="external free" title="http://extensions.joomla.org/extensions/news-display/news-tickers-a-scrollers/8425" rel="nofollow"&gt;http://extensions.joomla.org/extensions/news-display/news-tickers-a-scrollers/8425&lt;/a&gt; reports of shell scripts in download file
+&lt;/td&gt;&lt;td&gt;120610
+&lt;/td&gt;&lt;td&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+			<title>  Search Log   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Search_Log</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.kanich.net/radio/site/searchlog/searchlog-download" class="external free" title="http://www.kanich.net/radio/site/searchlog/searchlog-download" rel="nofollow"&gt;http://www.kanich.net/radio/site/searchlog/searchlog-download&lt;/a&gt; SQLi
+&lt;/td&gt;&lt;td&gt;080610
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.kanich.net/radio/site/searchlog/searchlog-download" class="external text" title="http://www.kanich.net/radio/site/searchlog/searchlog-download" rel="nofollow"&gt;Developer cited update to version 3.1.1 100710&lt;/a&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  iJoobi   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#iJoobi</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;Numerous reports under investigation, please contact [www.ijoobi.com]for more information.jtickets, jsubscription SQL Injection Vulnerability,
+&lt;p&gt;jstore SQL Injection Vulnerability, jnewsletter SQL Injection, jmarket SQL Injection Vulnerability, jcommunity SQL Injection, jsubscription SQL Injection,   
+&lt;/p&gt;
+&lt;/td&gt;&lt;td&gt;090610
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  Ads manager  Annonce   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Ads_manager__Annonce</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://joomla.clubnautiquemarine.fr/" class="external free" title="http://joomla.clubnautiquemarine.fr/" rel="nofollow"&gt;http://joomla.clubnautiquemarine.fr/&lt;/a&gt;
+&lt;p&gt;Upload Vulnerability
+&lt;/p&gt;
+&lt;/td&gt;&lt;td&gt; 05/06/10
+&lt;/td&gt;&lt;td&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  lead article    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#lead_article</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.leadya.co.il/" class="external free" title="http://www.leadya.co.il/" rel="nofollow"&gt;http://www.leadya.co.il/&lt;/a&gt; SQLi
+&lt;/td&gt;&lt;td&gt;050610
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  djartgallery   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#djartgallery</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.design-joomla.eu" class="external free" title="http://www.design-joomla.eu" rel="nofollow"&gt;http://www.design-joomla.eu&lt;/a&gt; Multiple Vul
+&lt;/td&gt;&lt;td&gt;05/06/10
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title> Gallery 2 Bridge    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Gallery_2_Bridge</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://trac.4theweb.nl/g2bridge" class="external text" title="http://trac.4theweb.nl/g2bridge" rel="nofollow"&gt;g2bridge&lt;/a&gt; LFI vulnerability
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  jsjobs   </title>
+
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#jsjobs</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.joomsky.com" class="external text" title="http://www.joomsky.com" rel="nofollow"&gt;jsjobs&lt;/a&gt; SQL Injection Vulnerability
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+</description>
+											</item>
+		<item>
+			<title>     </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#_2</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+
+</description>
+											</item>
+		<item>
+			<title>   JE Poll  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#JE_Poll</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://slideshow.joomlaextensions.co.in/" class="external free" title="http://slideshow.joomlaextensions.co.in/" rel="nofollow"&gt;http://slideshow.joomlaextensions.co.in/&lt;/a&gt; SQL Injection Vulnerability
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+
+			<title>  MyCar   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#MyCar</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.unisoft.me/extensions/" class="external free" title="http://www.unisoft.me/extensions/" rel="nofollow"&gt;http://www.unisoft.me/extensions/&lt;/a&gt; sqli ID
+&lt;/td&gt;&lt;td&gt;
+
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.unisoft.me/mycar/index.php?option=com_smallchat&amp;amp;Itemid=5" class="external text" title="http://www.unisoft.me/mycar/index.php?option=com_smallchat&amp;amp;Itemid=5" rel="nofollow"&gt;Dev announcement update to 1.1&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+
+		<item>
+			<title>  MediQnA   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#MediQnA</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;MediQnA LFI vulnerability version&amp;nbsp;: v1.1
+&lt;/td&gt;&lt;td&gt;
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>   JE Job  </title>
+
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#JE_Job</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://joomlaextensions.co.in/" class="external free" title="http://joomlaextensions.co.in/" rel="nofollow"&gt;http://joomlaextensions.co.in/&lt;/a&gt; LFI SQLi
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+			<title>  BF Quiz   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#BF_Quiz</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;SQL Injection Exploit Version(s) = 1.3.0
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.tamlyncreative.com.au/software/forum/index.php?topic=729.0" class="external text" title="http://www.tamlyncreative.com.au/software/forum/index.php?topic=729.0" rel="nofollow"&gt;Developer update to BF Quiz v1.3.1&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+</description>
+											</item>
+		<item>
+			<title>     </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#_3</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+
+											</item>
+		<item>
+			<title>   Ozio Gallery 2  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Ozio_Gallery_2</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;DT and open email relay
+&lt;/td&gt;&lt;td&gt;280510
+
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://oziogallery.joomla.it/index.php?option=com_content&amp;amp;view=article&amp;amp;id=65:rilasciata-la-versione-ozio-gallery-25&amp;amp;catid=2:notizie&amp;amp;Itemid=13&amp;amp;lang=en" class="external text" title="http://oziogallery.joomla.it/index.php?option=com_content&amp;amp;view=article&amp;amp;id=65:rilasciata-la-versione-ozio-gallery-25&amp;amp;catid=2:notizie&amp;amp;Itemid=13&amp;amp;lang=en" rel="nofollow"&gt;Developer update and security release&lt;/a&gt; 010610
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  SectionEx   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#SectionEx</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;Stack Ideas section Ex LFI
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+
+</description>
+											</item>
+		<item>
+			<title>  ActiveHelper LiveHelp    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#ActiveHelper_LiveHelp</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;XSS in &lt;a href="http://extensions.joomla.org/extensions/communication/chat/12492" class="external text" title="http://extensions.joomla.org/extensions/communication/chat/12492" rel="nofollow"&gt;LiveHelp&lt;/a&gt;
+
+&lt;/td&gt;&lt;td&gt;200510
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+
+			<title>  RS Comments   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#RS_Comments</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;XSS Vulnerability
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.rsjoomla.com/customer-support/documentations/96--general-overview-of-the-component/393-changelog.html" class="external text" title="http://www.rsjoomla.com/customer-support/documentations/96--general-overview-of-the-component/393-changelog.html" rel="nofollow"&gt;- fix posted 210510&lt;/a&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  BCA RSS Feed   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#BCA_RSS_Feed</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;LFI and other vulnerabilities
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;Since changed its name to NinjaRss
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+
+</description>
+											</item>
+		<item>
+			<title> SimpleDownload    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#SimpleDownload</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://extensions.joomla.org/extensions/directory-a-documentation/downloads/10717" class="external free" title="http://extensions.joomla.org/extensions/directory-a-documentation/downloads/10717" rel="nofollow"&gt;http://extensions.joomla.org/extensions/directory-a-documentation/downloads/10717&lt;/a&gt; various exploits
+
+&lt;/td&gt;&lt;td&gt;160510
+&lt;/td&gt;&lt;td&gt;updated version (version 0.9.6)
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+
+			<title>  JE Quotation Form   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#JE_Quotation_Form</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://joomlaextensions.co.in/free-download/doc_download/11-je-quotation-form.html" class="external free" title="http://joomlaextensions.co.in/free-download/doc_download/11-je-quotation-form.html" rel="nofollow"&gt;http://joomlaextensions.co.in/free-download/doc_download/11-je-quotation-form.html&lt;/a&gt;  LFI
+&lt;/td&gt;&lt;td&gt;
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  konsultasi   </title>
+
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#konsultasi</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;SQL Injection Vulnerability
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title> Aardvertiser    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Aardvertiser</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;Local File Inclusion Vulnerability
+&lt;p&gt;&lt;a href="http://extensions.joomla.org/extensions/ads-a-affiliates/classified-ads/9454" class="external free" title="http://extensions.joomla.org/extensions/ads-a-affiliates/classified-ads/9454" rel="nofollow"&gt;http://extensions.joomla.org/extensions/ads-a-affiliates/classified-ads/9454&lt;/a&gt;
+&lt;/p&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  Seber Cart    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Seber_Cart</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;Local File Disclosure Vulnerability
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.sebercart.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=158" class="external text" title="http://www.sebercart.com/index.php?option=com_content&amp;amp;view=article&amp;amp;id=158" rel="nofollow"&gt;Developer Update 140510&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+			<title>  FDione Form Wizard   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#FDione_Form_Wizard</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;lfi vulnerability
+&lt;/td&gt;&lt;td&gt;140510 200510
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://dionesoft.com" class="external text" title="http://dionesoft.com" rel="nofollow"&gt;Update to Dione Form Wizard (v. 1.0.4)&lt;/a&gt;.
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+			<title>   Custom PHP Pages  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Custom_PHP_Pages</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://extensions.joomla.org/extensions/edition/custom-code-in-content/5057" class="external free" title="http://extensions.joomla.org/extensions/edition/custom-code-in-content/5057" rel="nofollow"&gt;http://extensions.joomla.org/extensions/edition/custom-code-in-content/5057&lt;/a&gt; LFI Vulnerability
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://fijiwebdesign.com" class="external text" title="http://fijiwebdesign.com" rel="nofollow"&gt;Developer declares not vulnerable 140510&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+
+											</item>
+		<item>
+			<title>  Camp26 Visitor    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Camp26_Visitor</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;RFI www.camp26.biz
+&lt;/td&gt;&lt;td&gt;
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+			<title>    iJoomla News Portal  </title>
+
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#iJoomla_News_Portal</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;RFI SID
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.ijoomla.com/forum/index.php/topic,4480.0.html" class="external text" title="http://www.ijoomla.com/forum/index.php/topic,4480.0.html" rel="nofollow"&gt;Update to 1.5.10&lt;/a&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+</description>
+											</item>
+		<item>
+			<title>  article Factory Manager   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#article_Factory_Manager</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;RFI &amp;amp; Input Validation Error &lt;a href="http://www.thefactory.ro/shop/joomla-components/article-manager.html" class="external free" title="http://www.thefactory.ro/shop/joomla-components/article-manager.html" rel="nofollow"&gt;http://www.thefactory.ro/shop/joomla-components/article-manager.html&lt;/a&gt;
+&lt;/td&gt;&lt;td&gt;may 2010
+&lt;/td&gt;&lt;td&gt;can not reproduce and unproven, &lt;a href="http://www.thefactory.ro" class="external free" title="http://www.thefactory.ro" rel="nofollow"&gt;http://www.thefactory.ro&lt;/a&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  Table JX Component    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Table_JX_Component</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.toolsjx.com/" class="external free" title="http://www.toolsjx.com/" rel="nofollow"&gt;http://www.toolsjx.com/&lt;/a&gt; Table JX Component XSS
+&lt;/td&gt;&lt;td&gt;060510 - update 130510
+&lt;/td&gt;&lt;td&gt;Version: 1.5.5 considered unsafe
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>   JE Property  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#JE_Property</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;JE Property Finder Upload Vulnerability
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+
+											</item>
+		<item>
+			<title>   Noticeboard  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Noticeboard</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;Noticeboard for Joomla "controller" Local File Inclusion Vulnerability
+&lt;/td&gt;&lt;td&gt;
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>SmartSite     </title>
+
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#SmartSite</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;SmartSite com_smartsite Local File Inclusion Vulnerability
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+			<title>  ABC    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#ABC</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;ABC SQL Injection Vulnerability
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;reported as updated to JED 290410
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+
+											</item>
+		<item>
+			<title>  htmlcoderhelper graphics   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#htmlcoderhelper_graphics</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;htmlcoderhelper graphics v1.0.6 LFI Vulnerability
+&lt;/td&gt;&lt;td&gt;
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title> Ultimate Portfolio    </title>
+
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Ultimate_Portfolio</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;Ultimate Portfolio  Local File Inclusion Vulnerability
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+			<title>  huruhelpdesk   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#huruhelpdesk</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.huruhelpdesk.net" class="external free" title="http://www.huruhelpdesk.net" rel="nofollow"&gt;http://www.huruhelpdesk.net&lt;/a&gt; sqli injection
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.huruhelpdesk.net/forums/8-announcements/392--sql-injection-reveals-user-md5-password-hash" class="external text" title="http://www.huruhelpdesk.net/forums/8-announcements/392--sql-injection-reveals-user-md5-password-hash" rel="nofollow"&gt;Reported fix&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  Archery Scores   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Archery_Scores</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt; &lt;a href="http://lispeltuut.org/" class="external text" title="http://lispeltuut.org/" rel="nofollow"&gt;Archery Scores (com_archeryscores) v1.0.6 LFI Vulnerability&lt;/a&gt;
+&lt;/td&gt;&lt;td&gt;210410
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  ZiMB Manager   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#ZiMB_Manager</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;Joomla Component ZiMB Manager Local File Inclusion Vulnerability
+
+&lt;/td&gt;&lt;td&gt;210410
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+
+			<title>  Matamko   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Matamko</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;Matamko Local File Inclusion Vulnerability
+&lt;/td&gt;&lt;td&gt;210410
+&lt;/td&gt;&lt;td&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  Multiple Root   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Multiple_Root</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;Multiple Root Local File Inclusion Vulnerability &lt;a href="http://joomlacomponent.inetlanka.com/" class="external free" title="http://joomlacomponent.inetlanka.com/" rel="nofollow"&gt;http://joomlacomponent.inetlanka.com/&lt;/a&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  Multiple Map   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Multiple_Map</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;Multiple Map Local File Inclusion Vulnerability joomlacomponent.inetlanka.com
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+
+											</item>
+		<item>
+			<title>   Contact Us Draw Root Map  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Contact_Us_Draw_Root_Map</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;Draw Root Map Local File Inclusion Vulnerability joomlacomponent.inetlanka.com
+&lt;/td&gt;&lt;td&gt;
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  iF surfALERT   </title>
+
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#iF_surfALERT</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.inertialfate.za.net/" class="external text" title="http://www.inertialfate.za.net/" rel="nofollow"&gt;iF surfALERT&lt;/a&gt; Local File Inclusion Vulnerability
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>   GBU FACEBOOK  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#GBU_FACEBOOK</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;GBU FACEBOOK SQL injection vulnerability &lt;a href="http://www.gbugrafici.nl/gbufacebook/" class="external free" title="http://www.gbugrafici.nl/gbufacebook/" rel="nofollow"&gt;http://www.gbugrafici.nl/gbufacebook/&lt;/a&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>   jnewspaper  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#jnewspaper</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;jnewspaper (cid) SQL Injection Vulnerability
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+
+</description>
+											</item>
+		<item>
+			<title>  JTM Reseller   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#JTM_Reseller</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;TM Reseller SQL injection vulnerability
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://jtmreseller.com/" class="external text" title="http://jtmreseller.com/" rel="nofollow"&gt;Developer Update&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+
+											</item>
+		<item>
+			<title>  media Mall Factory   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#media_Mall_Factory</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;SQLi
+&lt;/td&gt;&lt;td&gt;200410
+
+&lt;/td&gt;&lt;td&gt; &lt;a href="http://www.thefactory.ro/contact-us/product-update-request.html" class="external text" title="http://www.thefactory.ro/contact-us/product-update-request.html" rel="nofollow"&gt;Solution: update to 1.0.5&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+
+		<item>
+			<title>   Gadget Factory  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Gadget_Factory</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;LFi
+&lt;/td&gt;&lt;td&gt;200410
+
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.thefactory.ro/contact-us/product-update-request.html" class="external text" title="http://www.thefactory.ro/contact-us/product-update-request.html" rel="nofollow"&gt;Solution: update to 1.5.1&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+
+			<title>  Deluxe Blog Factory   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Deluxe_Blog_Factory</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;SQLi
+&lt;/td&gt;&lt;td&gt;200410
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.thefactory.ro/contact-us/product-update-request.html" class="external text" title="http://www.thefactory.ro/contact-us/product-update-request.html" rel="nofollow"&gt;update to 1.1.2&lt;/a&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+</description>
+											</item>
+		<item>
+			<title>     </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#_4</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+
+		<item>
+			<title> MT Fire Eagle </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#MT_Fire_Eagle</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;LFI &lt;a href="http://joomlacode.org/gf/project/jfireeagle/frs/" class="external free" title="http://joomlacode.org/gf/project/jfireeagle/frs/" rel="nofollow"&gt;http://joomlacode.org/gf/project/jfireeagle/frs/&lt;/a&gt; &lt;a href="http://www.moto-treks.com" class="external free" title="http://www.moto-treks.com" rel="nofollow"&gt;http://www.moto-treks.com&lt;/a&gt;
+
+&lt;/td&gt;&lt;td&gt; 190410
+&lt;/td&gt;&lt;td&gt; product considered retired and to be replaced by dev
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;
+</description>
+
+											</item>
+		<item>
+			<title>  com properties   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#com_properties</link>
+			<description>
+&lt;/td&gt;&lt;td&gt; &lt;a href="http://com-property.com/" class="external free" title="http://com-property.com/" rel="nofollow"&gt;http://com-property.com/&lt;/a&gt; SQL I
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.com-property.com/images/fbfiles/files/properties-20100413.txt" class="external text" title="http://www.com-property.com/images/fbfiles/files/properties-20100413.txt" rel="nofollow"&gt;developer announced fix&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+
+											</item>
+		<item>
+			<title>  Sweetykeeper   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Sweetykeeper</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;Sweetykeeper Local File Inclusion Vulnerability  &lt;a href="http://www.joomlacorner.com/" class="external free" title="http://www.joomlacorner.com/" rel="nofollow"&gt;http://www.joomlacorner.com/&lt;/a&gt;
+
+&lt;/td&gt;&lt;td&gt;120410
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+
+			<title>  jvehicles   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#jvehicles</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;SQL Injection &lt;a href="http://jvehicles.com" class="external free" title="http://jvehicles.com" rel="nofollow"&gt;http://jvehicles.com&lt;/a&gt;
+&lt;/td&gt;&lt;td&gt;120410
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  worldrates   </title>
+
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#worldrates</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://dev.pucit.edu.pk/" class="external free" title="http://dev.pucit.edu.pk/" rel="nofollow"&gt;http://dev.pucit.edu.pk/&lt;/a&gt;
+&lt;/td&gt;&lt;td&gt;120410
+&lt;/td&gt;&lt;td&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  cvmaker   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#cvmaker</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://dev.pucit.edu.pk/" class="external free" title="http://dev.pucit.edu.pk/" rel="nofollow"&gt;http://dev.pucit.edu.pk/&lt;/a&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  advertising   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#advertising</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://dev.pucit.edu.pk/" class="external free" title="http://dev.pucit.edu.pk/" rel="nofollow"&gt;http://dev.pucit.edu.pk/&lt;/a&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>   horoscope  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#horoscope</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://dev.pucit.edu.pk/" class="external free" title="http://dev.pucit.edu.pk/" rel="nofollow"&gt;http://dev.pucit.edu.pk/&lt;/a&gt;
+
+&lt;/td&gt;&lt;td&gt;120410
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+
+			<title>   webtv  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#webtv</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://dev.pucit.edu.pk/" class="external free" title="http://dev.pucit.edu.pk/" rel="nofollow"&gt;http://dev.pucit.edu.pk/&lt;/a&gt;
+&lt;/td&gt;&lt;td&gt;120410
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  diary   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#diary</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://dev.pucit.edu.pk/" class="external free" title="http://dev.pucit.edu.pk/" rel="nofollow"&gt;http://dev.pucit.edu.pk/&lt;/a&gt;
+&lt;/td&gt;&lt;td&gt;120410
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+
+</description>
+											</item>
+		<item>
+			<title>   Multi-Venue Restaurant Menu Manager (MVRMM)  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Multi-Venue_Restaurant_Menu_Manager_.28MVRMM.29</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.focusdev.co.uk/" class="external free" title="http://www.focusdev.co.uk/" rel="nofollow"&gt;http://www.focusdev.co.uk/&lt;/a&gt;
+
+&lt;/td&gt;&lt;td&gt;120410
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://extensions.joomla.org/extensions/vertical-markets/food-a-beverage/10015" class="external text" title="http://extensions.joomla.org/extensions/vertical-markets/food-a-beverage/10015" rel="nofollow"&gt;Version 1.5.2 Stable Update 4&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+
+											</item>
+		<item>
+			<title>  Memory Book   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Memory_Book</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://dev.pucit.edu.pk/" class="external free" title="http://dev.pucit.edu.pk/" rel="nofollow"&gt;http://dev.pucit.edu.pk/&lt;/a&gt;
+
+&lt;/td&gt;&lt;td&gt;120410
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>   TRAVELbook  </title>
+
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#TRAVELbook</link>
+			<description>
+&lt;/td&gt;&lt;td&gt; &lt;a href="http://www.demo-page.de/" class="external free" title="http://www.demo-page.de/" rel="nofollow"&gt;http://www.demo-page.de/&lt;/a&gt;
+&lt;/td&gt;&lt;td&gt;120410
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+			<title> AlphaUserPoints    </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#AlphaUserPoints</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.alphaplug.com/index.php/downloads.html?func=fileinfo&amp;amp;id=31" class="external text" title="http://www.alphaplug.com/index.php/downloads.html?func=fileinfo&amp;amp;id=31" rel="nofollow"&gt;developer upgrade&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+
+</description>
+											</item>
+		<item>
+			<title>  JprojectMan   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#JprojectMan</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;LFI &lt;a href="http://extensions.joomla.org/extensions/communities-a-groupware/project-a-task-management/5676" class="external free" title="http://extensions.joomla.org/extensions/communities-a-groupware/project-a-task-management/5676" rel="nofollow"&gt;http://extensions.joomla.org/extensions/communities-a-groupware/project-a-task-management/5676&lt;/a&gt;
+
+&lt;/td&gt;&lt;td&gt;110410
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+			<title>   CKForms  </title>
+
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#CKForms</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;1.3.4 release - Important LFI security fix &lt;a href="http://joomlacode.org/gf/project/ckforms/news/?action=NewsThreadView&amp;amp;id=2814" class="external autonumber" title="http://joomlacode.org/gf/project/ckforms/news/?action=NewsThreadView&amp;amp;id=2814" rel="nofollow"&gt;[2]&lt;/a&gt;
+&lt;/td&gt;&lt;td&gt;07-04-10
+
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://ckforms.cookex.eu/download/download.php" class="external text" title="http://ckforms.cookex.eu/download/download.php" rel="nofollow"&gt;upgrade&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+
+			<title>   econtentsite  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#econtentsite</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;LFI
+&lt;/td&gt;&lt;td&gt;040410
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>    Jvehicles </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Jvehicles_2</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;ID
+&lt;/td&gt;&lt;td&gt;040410
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+</description>
+											</item>
+		<item>
+
+			<title>     </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#_5</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+			<title>  smestorage   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#smestorage</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.smestorage.com" class="external text" title="http://www.smestorage.com" rel="nofollow"&gt;SMEStorage&lt;/a&gt; LFI
+&lt;/td&gt;&lt;td&gt;Updated 29 March 10
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://gelembjuk.com/index.php?option=com_content&amp;amp;view=section&amp;amp;layout=blog&amp;amp;id=1&amp;amp;Itemid=55" class="external text" title="http://gelembjuk.com/index.php?option=com_content&amp;amp;view=section&amp;amp;layout=blog&amp;amp;id=1&amp;amp;Itemid=55" rel="nofollow"&gt;developer fix&lt;/a&gt; to 1.1
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+			<title>  JE Tooltip   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#JE_Tooltip</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://joomlaextensions.co.in/formcreator/" class="external text" title="http://joomlaextensions.co.in/formcreator/" rel="nofollow"&gt;JE Tooltip&lt;/a&gt; LFI
+&lt;/td&gt;&lt;td&gt;Updated 23 March
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+			<title>  Gift Exchange Beta   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Gift_Exchange_Beta</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://extensions.joomla.org/extensions/communities-a-groupware/membership/11680" class="external text" title="http://extensions.joomla.org/extensions/communities-a-groupware/membership/11680" rel="nofollow"&gt;Gift exchange&lt;/a&gt; SQLi
+
+&lt;/td&gt;&lt;td&gt;Updated 23 March
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://socialables.com/28-Jomsocial/Gift-Exchange/flypage.tpl.html" class="external text" title="http://socialables.com/28-Jomsocial/Gift-Exchange/flypage.tpl.html" rel="nofollow"&gt;upgrade beta 1.0.1&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+
+											</item>
+		<item>
+			<title>  RokDownloads  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#RokDownloads</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;[&lt;a href="http://extensions.joomla.org/extensions/directory-a-documentation/downloads/7967" class="external text" title="http://extensions.joomla.org/extensions/directory-a-documentation/downloads/7967" rel="nofollow"&gt;LFI&lt;/a&gt;]
+
+&lt;/td&gt;&lt;td&gt;15 march 2010
+&lt;/td&gt;&lt;td&gt;upgrade to &lt;a href="http://www.rockettheme.com/extensions-updates/638-rokdownloads-10-released" class="external text" title="http://www.rockettheme.com/extensions-updates/638-rokdownloads-10-released" rel="nofollow"&gt;version 1.0&lt;/a&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+
+</description>
+											</item>
+		<item>
+			<title>    gigcalender   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#gigcalender</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;SQLi &lt;a href="http://extensions.joomla.org/extensions/calendars-a-events/events/97)http://extensions.joomla.org/extensions/calendars-a-events/events/97" class="external text" title="http://extensions.joomla.org/extensions/calendars-a-events/events/97)http://extensions.joomla.org/extensions/calendars-a-events/events/97" rel="nofollow"&gt;gigcalender&lt;/a&gt;
+
+&lt;/td&gt;&lt;td&gt;13 march 2010
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+
+			<title>    heza content   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#heza_content</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;SQLi &lt;a href="http://extensions.joomla.org/extensions/structure-a-navigation/sections-a-categories/10427)http://extensions.joomla.org/extensions/structure-a-navigation/sections-a-categories/10427" class="external text" title="http://extensions.joomla.org/extensions/structure-a-navigation/sections-a-categories/10427)http://extensions.joomla.org/extensions/structure-a-navigation/sections-a-categories/10427" rel="nofollow"&gt;heza content&lt;/a&gt;
+&lt;/td&gt;&lt;td&gt;13 march 2010
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>   juliaportfolio   </title>
+
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#juliaportfolio</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;LFI &lt;a href="http://extensions.joomla.org/extensions/directory-&amp;amp;-documentation/portfolio/8519/details" class="external text" title="http://extensions.joomla.org/extensions/directory-&amp;amp;-documentation/portfolio/8519/details" rel="nofollow"&gt;juliaportfolio&lt;/a&gt;
+&lt;/td&gt;&lt;td&gt;13 march 2010
+
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+			<title>  Flash Magazine Deluxe   </title>
+
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Flash_Magazine_Deluxe</link>
+			<description>
+&lt;/td&gt;&lt;td&gt;SQL Injection Vulnerability.
+&lt;/td&gt;&lt;td&gt;Feb 25
+&lt;/td&gt;&lt;td&gt;&lt;b&gt;&lt;a href="http://www.joomplace.com/flash-magazine-deluxe/flash-magazine-deluxe-description.html" class="external text" title="http://www.joomplace.com/flash-magazine-deluxe/flash-magazine-deluxe-description.html" rel="nofollow"&gt;Developer Update Version 2.0.11 09/03/10&lt;/a&gt;&lt;/b&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title>  SqlReport   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#SqlReport</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;Sqlreport has a sql/RFI exploit. awaiting confirmation on exact developer.
+&lt;/td&gt;&lt;td&gt;Feb 20
+&lt;/td&gt;&lt;td&gt;&lt;b&gt;Not Known&lt;/b&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+			<title>  Scriptegrator   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Scriptegrator</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;Core Design &lt;a href="http://www.greatjoomla.com/extensions/plugins/core-design-scriptegrator-plugin.html" class="external text" title="http://www.greatjoomla.com/extensions/plugins/core-design-scriptegrator-plugin.html" rel="nofollow"&gt;Scriptegrator&lt;/a&gt; RFI exploit
+&lt;/td&gt;&lt;td&gt;Feb 20
+&lt;/td&gt;&lt;td&gt;&lt;a href="http://www.greatjoomla.com/extensions/plugins/core-design-scriptegrator-plugin.html" class="external text" title="http://www.greatjoomla.com/extensions/plugins/core-design-scriptegrator-plugin.html" rel="nofollow"&gt;Dev Upgrade announcement&lt;/a&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+			<title>  AllVideos 3.1  </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#AllVideos_3.1</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;
+&lt;p&gt;A vulnerability discovered in versions 3.0. and 3.1 of the plugin can be exploited by malicious people to disclose potentially sensitive information. For security reasons we will not be providing further details to safeguard users of affected versions. &lt;a href="http://www.joomlaworks.gr/content/view/77/34/" class="external free" title="http://www.joomlaworks.gr/content/view/77/34/" rel="nofollow"&gt;http://www.joomlaworks.gr/content/view/77/34/&lt;/a&gt;]|
+&lt;/p&gt;
+&lt;/td&gt;&lt;td&gt;17 Feb
+&lt;/td&gt;&lt;td&gt; &lt;a href="http://joomlaworks.googlecode.com/files/plg_jw_allvideos-v3.3_j1.5.zip" class="external text" title="http://joomlaworks.googlecode.com/files/plg_jw_allvideos-v3.3_j1.5.zip" rel="nofollow"&gt;Version 3.3 release 18th&lt;/a&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+			<title>  RW Cards   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#RW_Cards</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt; &lt;a href="http://extensions.joomla.org/extensions/3430/details" class="external text" title="http://extensions.joomla.org/extensions/3430/details" rel="nofollow"&gt;RW Card&lt;/a&gt; LFI and ID exploit &lt;a href="http://www.weberr.de/" class="external text" title="http://www.weberr.de/" rel="nofollow"&gt;Dev Site&lt;/a&gt;
+&lt;/td&gt;&lt;td&gt;180210
+
+&lt;/td&gt;&lt;td style="background:#cef2e0; color:black"&gt;&lt;b&gt;  &lt;a href="http://www.weberr.de/index.php/forum.html?func=view&amp;amp;catid=5&amp;amp;id=1939&amp;amp;limit=6" class="external text" title="http://www.weberr.de/index.php/forum.html?func=view&amp;amp;catid=5&amp;amp;id=1939&amp;amp;limit=6" rel="nofollow"&gt;developer update&lt;/a&gt;&lt;/b&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:red; color:white"&gt;
+</description>
+											</item>
+		<item>
+			<title> Yelp </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Yelp</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt; SQLi - Unable to locate developer. Possibly a custom extension.
+&lt;/td&gt;&lt;td&gt;Feb 01
+&lt;/td&gt;&lt;td style="background:red; color:white"&gt; &lt;b&gt;  Not Known&lt;/b&gt;
+&lt;/td&gt;&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+			<title>  Autartitarot   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#Autartitarot</link>
+			<description>
+
+&lt;/td&gt;&lt;td&gt;Directory Traversal. Back end access required
+&lt;/td&gt;&lt;td&gt; Feb 05
+&lt;/td&gt;&lt;td style="background:#cef2e0; color:black"&gt; &lt;b&gt; Please upgrade to &lt;a href="http://www.autartica.be/en/autartitarot" class="external text" title="http://www.autartica.be/en/autartitarot" rel="nofollow"&gt;version 1.0.4&lt;/a&gt;&lt;/b&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="background:#cef2e0; color:black"&gt;
+</description>
+											</item>
+		<item>
+			<title>  communitypolls   </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#communitypolls</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;LFI - &lt;a href="http://www.corejoomla.com/" class="external text" title="http://www.corejoomla.com/" rel="nofollow"&gt;community polls&lt;/a&gt;
+&lt;/td&gt;&lt;td&gt;Feb 17
+&lt;/td&gt;&lt;td&gt;upgrade to &lt;a href="http://www.corejoomla.com/" class="external text" title="http://www.corejoomla.com/" rel="nofollow"&gt;version 1.5.3&lt;/a&gt;
+
+&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+</description>
+											</item>
+		<item>
+			<title>     </title>
+			<link>http://docs.joomla.org/Vulnerable_Extensions_List#_6</link>
+
+			<description>
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;td&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;p&gt;</description>
+
+											</item>
+	</channel>
+</rss>
